@@ -13,8 +13,10 @@ CoolSims: Simulations from lecture linked here.  If you're a fellow space nerd, 
 
 Packet: In case you've lost the packet but somehow still remembered the URL of this repository.
 
-HOW TO RUN PYTHON FILES (.PY):                                                                                          
-A good source (from the website of the book that I learned python from) -> https://learnpythonthehardway.org/book/ex0.html     
+HOW TO RUN PYTHON FILES (.PY):                                                                                    
+First, you need to install python.  You might already have it on your computer, check first.
+A good source (from the website of the book that I learned python from): https://learnpythonthehardway.org/book/ex0.html  
+Once you learn how to navigate your OS's terminal, it's as simple as navigating to the folder that your .py file is in and typing "python [FILENAME].py".  Plenty of good tutorials available on the internet as well.                           
 If you get to the point where you'd like to start writing your own code in python, I highly recommend the free PyCharm IDE.
 
 HOW TO RUN ATMEGA FILES:                                                                                               
