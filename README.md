@@ -13,11 +13,11 @@ CoolSims: Simulations from lecture linked here.  If you're a fellow space nerd, 
 
 Packet: In case you've lost the packet but somehow still remembered the URL of this repository.
 
-HOW TO RUN PYTHON FILES (.PY):
+HOW TO RUN PYTHON FILES (.PY): \n
 A good source (from the website of the book that I learned python from) -> https://learnpythonthehardway.org/book/ex0.html
 If you get to the point where you'd like to start writing your own code in python, I highly recommend the free PyCharm IDE.
 
-HOW TO RUN ATMEGA FILES:
+HOW TO RUN ATMEGA FILES: \n
 I write ATMEGA code using the free IDE provided by arduino.  
 Installation instructions (scroll to "Install the Arduino Desktop IDE"): https://www.arduino.cc/en/Guide/HomePage
 If you decide to buy an arduino, you can program your ATMEGA through USB using standard ardiuno procedures.
