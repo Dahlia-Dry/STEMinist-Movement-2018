@@ -7,7 +7,7 @@ Spirograph: Python code that uses the turtle imaging library to draw spirographs
 
 PlotNerdsOnly: Jupyter notebook intro to using matplotlib to visualize your data in python.  Includes code to do this with your weather station! [arduino required]
 
-CoolSims: Simulations from lecture linked here.  If you're a fellow space nerd, try running the VPython script OrbitViz.py, written by yours truly.
+ComputationalStuff: Examples from lecture linked here.  If you're a fellow space nerd, try running the VPython script OrbitViz.py, written by yours truly.
 
 Packet: In case you've lost the packet but somehow still remembered the URL of this repository.
 
