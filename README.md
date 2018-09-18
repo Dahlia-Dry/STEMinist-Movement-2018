@@ -1,7 +1,7 @@
 # STEMinist-Movement-2018
 Attended the September 2018 lectures and looking for some ATMEGA code / other fun stuff? You've come to the right place!
 
-ATMEGA_Code: The java code preprogrammed into the microcontroller to run the weather station, weather station upgrades 1 and 2, and 3 supplementary projects.  If you'd like to understand how it works, the comments should do a pretty good job of explaining.
+ATMEGA_Code: The java code preprogrammed into the microcontroller to run the weather station, mini projects 1 and 2 [section 6], and the upgraded weather station [section 7].  If you'd like to understand how it works, the comments should do a pretty good job of explaining.
 
 Spirograph: Python code that uses the turtle imaging library to draw spirographs on your computer.  
 
